@@ -1,0 +1,27 @@
+{
+	"web": {
+		"server": {
+			"port": 3000,
+			"host": "localhost"
+		},
+		"auth": {
+			"enabled": true,
+			"jwtPrivateKey": "8981F9391AF549443CC7D5141B24DJ4C",
+			"jwtAlgorithm": "HS256",
+			"jwtLoginPath": "/auth/jwt",
+			"jwtExpiration": 3600
+		},
+		"oas": {
+			"enableDocumentation": true,
+			"documentationPath": "/api/documentation",
+			"host": "http://localhost:3000"
+		}
+	},
+	"connections": {
+		"mymongodb": {
+			"type": "mongodb",
+			"url": "mongodb://admin:local@localhost:27017/admin",
+			"databaseName": "mydatabase"
+		}
+	}
+}
