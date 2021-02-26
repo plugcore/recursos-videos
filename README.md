@@ -8,4 +8,4 @@ Recursos que vamos compartir en los vídeos de nuestro canal de Youtube: https:/
 - Github: [https://github.com/plugcore/plugcore](https://github.com/plugcore/plugcore)
 - Twitter: [https://twitter.com/plugcoreit)](https://twitter.com/plugcoreit)
 - Linkedin: [https://www.linkedin.com/company/plugcore](https://www.linkedin.com/company/plugcore)
-- Blog: [https://plugcore.com/blog/plugcore-init](https://plugcore.com/blog/plugcore-init)
+- Blog: [https://plugcore.com/es/blog/framework-plugcore](https://plugcore.com/es/blog/framework-plugcore)
